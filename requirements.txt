@@ -1,0 +1,4 @@
+python=3.6
+opencv=3.3
+tflearn=0.3
+tensorflow=1.13
